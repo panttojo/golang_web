@@ -1,5 +1,5 @@
-# Golang
-Templates and server with golang
+# Golang Web
+Templates and web server with golang
 
 # BUILD AND RUN
 `docker build -t project:1.0 .`  
